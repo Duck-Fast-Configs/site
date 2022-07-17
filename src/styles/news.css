@@ -1,0 +1,45 @@
+#place-news > center > .title {
+    font-family: Nunito-Bold;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-top: 3%;
+}
+
+#place-news > .article > .datetime {
+    font-family: Nunito-ExtraLight;
+    font-size: large;
+    font-weight: bold;
+}
+
+#place-news > .article > .title {
+    font-family: Nunito-Bold;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#place-news > .article > .description {
+    font-family: Nunito-Regular;
+    font-size: larger;
+    font-weight: lighter;
+}
+
+#place-news > .article > center > .title {
+    font-family: Nunito-Bold;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#place-news {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#place-news > .article {
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+
+hr {
+    border-top: 1px solid rgb(0, 0, 0);
+    border-radius: 10%;
+}
